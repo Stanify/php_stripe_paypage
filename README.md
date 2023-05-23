@@ -22,8 +22,7 @@ composer install
 ### Author
 
 stanify
-[stanify](http://www.traversymedia.com)
-
+[stanify]
 ### Version
 
 1.0.0
