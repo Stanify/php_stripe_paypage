@@ -5,7 +5,7 @@
   require_once('models/Customer.php');
   require_once('models/Transaction.php');
 
-  \Stripe\Stripe::setApiKey('sk_test_51NAUDRJUIrSGqjqLBDXrcRbktWa4AtxwqyihI7Gju6KKLkQL0DWZFbkxMoJ2q4PV608xOtG0bFNkRF7CU06Q8Cof00rs2tH1QW');
+  \Stripe\Stripe::setApiKey('your sk key');
 
  // Sanitize POST Array
  $POST = filter_var_array($_POST, FILTER_SANITIZE_STRING);
