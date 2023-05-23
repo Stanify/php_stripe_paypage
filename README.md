@@ -21,8 +21,8 @@ composer install
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+stanify
+[stanify](http://www.traversymedia.com)
 
 ### Version
 
