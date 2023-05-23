@@ -7,10 +7,10 @@
 	 *  Returns rows and results
    */
 class Database {
-	private $host = "localhost:3310";
-	private $user = "root";
+	private $host = "";
+	private $user = "";
 	private $pass = "";
-	private $dbname = "paypage";
+	private $dbname = "";
 	
 	private $dbh;
 	private $error;
